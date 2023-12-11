@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TypeScriptToLua/TypeScriptToLua/master/tsconfig-schema.json",
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": ["esnext"],
+    "moduleResolution": "node",
+    "strict": true,
+    "outDir": "build",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "rootDir": "src",
+    "types": ["./node_modules/cc-tweaked-types/declarations","./node_modules/computercraft-types","./node_modules/@types/node"],
+  },
+  "tstl": {
+    "luaTarget": "5.1"
+  }
+}

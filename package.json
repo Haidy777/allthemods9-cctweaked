@@ -1,0 +1,20 @@
+{
+  "name": "atm9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tstl",
+    "dev": "tstl --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.9.4",
+    "cc-tweaked-types": "^0.4.0",
+    "computercraft-types": "^1.0.10",
+    "typescript": "^5.2.2",
+    "typescript-to-lua": "^1.22.0"
+  }
+}
