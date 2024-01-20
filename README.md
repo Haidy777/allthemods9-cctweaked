@@ -6,6 +6,16 @@ Youtube Playlist: https://www.youtube.com/playlist?list=PLEigNmGkw2xjFt5qQ5odVnp
 
 This Repository contains some of the ComputerCraft Scripts and Experiments I'm using. The source is written in TypeScript, the language I use daily, and is then compiled into Lua via TypeScriptToLua.
 
+## other links
+
+- https://www.reddit.com/r/feedthebeast/comments/12jo1pc/simple_mekanism_fission_reactor_industrial/
+- https://imgur.com/a/YE4evMB
+- https://www.reddit.com/r/feedthebeast/comments/2zch19/most_efficient_big_reactor_designs/
+- https://www.reddit.com/r/allthemods/comments/xaj3q6/a_simple_biggerreactors_computercraft_controller/
+- https://www.youtube.com/watch?v=iLSlFHweJsI
+- https://www.youtube.com/watch?v=XCgA6l85Szw
+
+
 ## external Sources
 
 ### Programs
@@ -34,6 +44,8 @@ Some CC Scripts: https://github.com/sigmasoldi3r/cc-scripts
 SquidDev's CC Stuff:
 - https://github.com/SquidDev-CC
 - https://github.com/SquidDev-CC/copy-cat
+
+https://pinestore.cc/
 
 ### TypeScript & Lua 
 Lua Reference: https://www.lua.org/pil/contents.html
