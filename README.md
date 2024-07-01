@@ -16,6 +16,9 @@ This Repository contains some of the ComputerCraft Scripts and Experiments I'm u
 - https://www.youtube.com/watch?v=XCgA6l85Szw
 - https://www.youtube.com/watch?v=l_DW6U4k9go
 - https://www.reddit.com/r/allthemods/comments/18omoe3/atm9_for_everyone_struggling_to_find_sus/
+- https://allthemods.github.io/alltheguides/
+- https://github.com/MikaylaFischler/cc-mek-scada
+- https://www.craftos-pc.cc/
 
 
 ## external Sources
